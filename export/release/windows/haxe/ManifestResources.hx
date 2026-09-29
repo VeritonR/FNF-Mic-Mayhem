@@ -555,6 +555,10 @@ import sys.FileSystem;
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_shared_images_titleenter_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_shared_images_titleenter_xml extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_shared_images_unknownmod_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_shared_images_weekpreview_finale_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_shared_images_weekpreview_weekg_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_shared_images_weekpreview_weekrp_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
+@:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_shared_images_weekpreview_weekw_png extends flash.display.BitmapData { public function new () { super (0, 0, true, 0); } }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_shared_music_breakfast__pico__ogg extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_shared_music_breakfast_ogg extends null { }
 @:keep @:bind @:noCompletion #if display private #end class __ASSET__assets_shared_music_freakymenu_ogg extends null { }

@@ -2496,7 +2496,6 @@
    <depend name="include/haxe/IMap.h"/>
    <depend name="include/haxe/Log.h"/>
    <depend name="include/haxe/ds/StringMap.h"/>
-   <depend name="include/objects/MenuCharacter.h"/>
    <depend name="include/objects/MenuItem.h"/>
    <depend name="include/openfl/events/EventDispatcher.h"/>
    <depend name="include/openfl/events/IEventDispatcher.h"/>

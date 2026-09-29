@@ -35,7 +35,7 @@ class ApplicationMain
 		ManifestResources.init(config);
 		#end
 
-		app.meta["build"] = "3";
+		app.meta["build"] = "5";
 		app.meta["company"] = "ShadowMario";
 		app.meta["file"] = "FNF Mic Mayhem V2";
 		app.meta["name"] = "Friday Night Funkin : Mic Mayhem V2";

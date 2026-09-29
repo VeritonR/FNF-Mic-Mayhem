@@ -66,10 +66,9 @@ class HXCPP_CLASS_ATTRIBUTES StoryMenuState_obj : public  ::backend::MusicBeatSt
 		 ::flixel::text::FlxText scoreText;
 		int curDifficulty;
 		 ::flixel::text::FlxText txtWeekTitle;
-		 ::flixel::FlxSprite bgSprite;
+		 ::flixel::FlxSprite weekPreview;
 		 ::flixel::text::FlxText txtTracklist;
 		 ::flixel::group::FlxTypedGroup grpWeekText;
-		 ::flixel::group::FlxTypedGroup grpWeekCharacters;
 		 ::flixel::group::FlxTypedGroup grpLocks;
 		 ::flixel::group::FlxTypedGroup difficultySelectors;
 		 ::flixel::FlxSprite sprDifficulty;
