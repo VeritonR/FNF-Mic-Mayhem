@@ -289,7 +289,7 @@ STATIC_HX_DEFINE_DYNAMIC_FUNC0(DiscordClient_obj,updatePresence,(void))
 
 void DiscordClient_obj::resetClientID(){
             	HX_STACKFRAME(&_hx_pos_eb10ff3c4d95691e_127_resetClientID)
-HXDLIN( 127)		::backend::DiscordClient_obj::set_clientID(HX_("863222024192262205",be,6e,40,13));
+HXDLIN( 127)		::backend::DiscordClient_obj::set_clientID(HX_("1538025567046209659",05,94,af,a8));
             	}
 
 
@@ -353,7 +353,7 @@ HXLINE( 160)		{
             			void _hx_run(::String newID){
             				HX_STACKFRAME(&_hx_pos_eb10ff3c4d95691e_160_addLuaCallbacks)
 HXLINE( 161)				if (::hx::IsNull( newID )) {
-HXLINE( 161)					newID = HX_("863222024192262205",be,6e,40,13);
+HXLINE( 161)					newID = HX_("1538025567046209659",05,94,af,a8);
             				}
 HXLINE( 162)				::backend::DiscordClient_obj::set_clientID(newID);
             			}
@@ -510,11 +510,11 @@ HXDLIN(  15)		isInitialized = false;
             	}
 {
             	HX_STACKFRAME(&_hx_pos_eb10ff3c4d95691e_16_boot)
-HXDLIN(  16)		_defaultID = HX_("863222024192262205",be,6e,40,13);
+HXDLIN(  16)		_defaultID = HX_("1538025567046209659",05,94,af,a8);
             	}
 {
             	HX_STACKFRAME(&_hx_pos_eb10ff3c4d95691e_17_boot)
-HXDLIN(  17)		clientID = HX_("863222024192262205",be,6e,40,13);
+HXDLIN(  17)		clientID = HX_("1538025567046209659",05,94,af,a8);
             	}
 {
             	HX_GC_STACKFRAME(&_hx_pos_eb10ff3c4d95691e_18_boot)

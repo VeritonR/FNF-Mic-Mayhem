@@ -2342,7 +2342,7 @@ HXLINE( 755)					::backend::MusicBeatState_obj::switchState( ::states::StoryMenu
             				else {
 HXLINE( 757)					::backend::MusicBeatState_obj::switchState( ::states::FreeplayState_obj::__alloc( HX_CTX ));
             				}
-HXLINE( 759)				::backend::DiscordClient_obj::set_clientID(HX_("863222024192262205",be,6e,40,13));
+HXLINE( 759)				::backend::DiscordClient_obj::set_clientID(HX_("1538025567046209659",05,94,af,a8));
 HXLINE( 761)				 ::flixel::_hx_system::frontEnds::SoundFrontEnd _hx_tmp = ::flixel::FlxG_obj::sound;
 HXDLIN( 761)				_hx_tmp->playMusic(::backend::Paths_obj::returnSound((HX_("music/",ea,bf,1b,3f) + HX_("freakyMenu",15,c9,93,86)),null(),true,null()),null(),null(),null());
 HXLINE( 762)				::states::PlayState_obj::changedDifficulty = false;

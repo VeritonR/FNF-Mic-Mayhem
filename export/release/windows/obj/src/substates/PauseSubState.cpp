@@ -911,7 +911,7 @@ HXLINE( 299)				::states::PlayState_obj::instance->finishSong(true);
 HXLINE( 295)				goto _hx_goto_10;
             			}
             			if (  (_hx_switch_0==HX_("Exit to menu",82,87,9a,a9)) ){
-HXLINE( 319)				::backend::DiscordClient_obj::set_clientID(HX_("863222024192262205",be,6e,40,13));
+HXLINE( 319)				::backend::DiscordClient_obj::set_clientID(HX_("1538025567046209659",05,94,af,a8));
 HXLINE( 320)				::states::PlayState_obj::deathCounter = 0;
 HXLINE( 321)				::states::PlayState_obj::seenCutscene = false;
 HXLINE( 323)				::states::PlayState_obj::instance->canResync = false;

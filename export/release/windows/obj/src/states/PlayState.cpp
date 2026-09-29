@@ -4407,7 +4407,7 @@ HXLINE(1951)		if (::hx::IsNotNull( this->opponentVocals )) {
 HXLINE(1952)			this->opponentVocals->pause();
             		}
 HXLINE(1955)		::backend::DiscordClient_obj::changePresence(HX_("Chart Editor",ef,b4,29,e9),null(),null(),true,null(),null());
-HXLINE(1956)		::backend::DiscordClient_obj::set_clientID(HX_("863222024192262205",be,6e,40,13));
+HXLINE(1956)		::backend::DiscordClient_obj::set_clientID(HX_("1538025567046209659",05,94,af,a8));
 HXLINE(1959)		::backend::MusicBeatState_obj::switchState( ::states::editors::ChartingState_obj::__alloc( HX_CTX ,null()));
             	}
 
@@ -4430,7 +4430,7 @@ HXLINE(1972)			this->vocals->pause();
 HXLINE(1973)		if (::hx::IsNotNull( this->opponentVocals )) {
 HXLINE(1974)			this->opponentVocals->pause();
             		}
-HXLINE(1976)		::backend::DiscordClient_obj::set_clientID(HX_("863222024192262205",be,6e,40,13));
+HXLINE(1976)		::backend::DiscordClient_obj::set_clientID(HX_("1538025567046209659",05,94,af,a8));
 HXLINE(1977)		::backend::MusicBeatState_obj::switchState( ::states::editors::CharacterEditorState_obj::__alloc( HX_CTX ,( (::String)(::states::PlayState_obj::SONG->__Field(HX_("player2",b1,09,15,8a),::hx::paccDynamic)) ),null()));
             	}
 
@@ -5258,7 +5258,7 @@ HXLINE(2457)				if ((::states::PlayState_obj::storyPlaylist->length <= 0)) {
 HXLINE(2459)					::backend::Mods_obj::loadTopMod();
 HXLINE(2460)					 ::flixel::_hx_system::frontEnds::SoundFrontEnd _hx_tmp4 = ::flixel::FlxG_obj::sound;
 HXDLIN(2460)					_hx_tmp4->playMusic(::backend::Paths_obj::returnSound((HX_("music/",ea,bf,1b,3f) + HX_("freakyMenu",15,c9,93,86)),null(),true,null()),null(),null(),null());
-HXLINE(2461)					::backend::DiscordClient_obj::set_clientID(HX_("863222024192262205",be,6e,40,13));
+HXLINE(2461)					::backend::DiscordClient_obj::set_clientID(HX_("1538025567046209659",05,94,af,a8));
 HXLINE(2463)					this->canResync = false;
 HXLINE(2464)					::backend::MusicBeatState_obj::switchState( ::states::StoryMenuState_obj::__alloc( HX_CTX ));
 HXLINE(2467)					bool _hx_tmp5;
@@ -5345,7 +5345,7 @@ HXLINE(2492)					::backend::MusicBeatState_obj::switchState(::states::LoadingSta
             			else {
 HXLINE(2497)				::haxe::Log_obj::trace(HX_("WENT BACK TO FREEPLAY??",58,1b,be,6a),::hx::SourceInfo(HX_("source/states/PlayState.hx",3a,21,29,28),2497,HX_("states.PlayState",31,cd,20,04),HX_("endSong",50,dd,7c,2e)));
 HXLINE(2498)				::backend::Mods_obj::loadTopMod();
-HXLINE(2499)				::backend::DiscordClient_obj::set_clientID(HX_("863222024192262205",be,6e,40,13));
+HXLINE(2499)				::backend::DiscordClient_obj::set_clientID(HX_("1538025567046209659",05,94,af,a8));
 HXLINE(2501)				this->canResync = false;
 HXLINE(2502)				::backend::MusicBeatState_obj::switchState( ::states::FreeplayState_obj::__alloc( HX_CTX ));
 HXLINE(2503)				 ::flixel::_hx_system::frontEnds::SoundFrontEnd _hx_tmp13 = ::flixel::FlxG_obj::sound;

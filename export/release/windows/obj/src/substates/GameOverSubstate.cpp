@@ -469,7 +469,7 @@ HXLINE( 157)				this->endBullshit();
             			}
             			else {
 HXLINE( 159)				if (::backend::Controls_obj::instance->get_BACK()) {
-HXLINE( 161)					::backend::DiscordClient_obj::set_clientID(HX_("863222024192262205",be,6e,40,13));
+HXLINE( 161)					::backend::DiscordClient_obj::set_clientID(HX_("1538025567046209659",05,94,af,a8));
 HXLINE( 162)					::flixel::FlxG_obj::camera->set_visible(false);
 HXLINE( 163)					{
 HXLINE( 163)						 ::flixel::sound::FlxSound _this1 = ::flixel::FlxG_obj::sound->music;
