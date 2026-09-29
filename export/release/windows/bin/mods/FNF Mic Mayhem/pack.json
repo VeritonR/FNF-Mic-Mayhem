@@ -1,0 +1,7 @@
+{
+	"name": "FNF Mic Mayhem",
+	"description": "um mod feito inteiramente por brasileiros",
+	"restart":true,
+	"runsGlobally": true,
+	"color": [170, 0, 255]
+}

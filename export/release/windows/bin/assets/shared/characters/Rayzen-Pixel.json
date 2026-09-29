@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"offsets": [234, 112],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Enzy Idle"
+		},
+		{
+			"offsets": [234, 112],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Enzy Up"
+		},
+		{
+			"offsets": [234, 112],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Enzy Down"
+		},
+		{
+			"offsets": [234, 112],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Enzy Right"
+		},
+		{
+			"offsets": [234, 112],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Enzy Left"
+		},
+		{
+			"loop": false,
+			"offsets": [234, 112],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Enzy Alt Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [234, 112],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Enzy Alt Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [234, 112],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Enzy Alt Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [234, 112],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Enzy Alt Right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Rayzen_Assets",
+	"position": [30, 90],
+	"healthicon": "rayzen-Pixel",
+	"flip_x": false,
+	"healthbar_colors": [166, 0, 36],
+	"camera_position": [260, -120],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

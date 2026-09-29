@@ -1,0 +1,27 @@
+{
+	"songs": [
+		[
+			"Tridimensional",
+			"Ytalo3d",
+			[
+				0,
+				173,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "Tridimensional",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "the third dimension",
+	"weekName": "Tridimensional",
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

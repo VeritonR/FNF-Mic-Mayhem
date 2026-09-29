@@ -1,0 +1,45 @@
+{
+	"storyName": "A random Guy",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "street",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Redline Rampage",
+			"rayzen",
+			[
+				175,
+				0,
+				13
+			]
+		],
+		[
+			"Mid Mic",
+			"rayzen",
+			[
+				175,
+				0,
+				13
+			]
+		],
+		[
+			"Damn Ari",
+			"rayzen",
+			[
+				175,
+				0,
+				13
+			]
+		]
+	],
+	"weekCharacters": [
+		"Rayzen",
+		"",
+		"bf"
+	],
+	"weekName": "Week Rayzen",
+	"hiddenUntilUnlocked": false
+}

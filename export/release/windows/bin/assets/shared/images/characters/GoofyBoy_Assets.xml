@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GoofyBoy_Assets.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Boy Idle0000" x="821" y="367" width="276" height="367" frameX="-341" frameY="-303" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Boy Idle0001" x="821" y="367" width="276" height="367" frameX="-341" frameY="-303" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Boy Idle0002" x="0" y="752" width="275" height="364" frameX="-336" frameY="-306" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Boy Idle0003" x="0" y="752" width="275" height="364" frameX="-336" frameY="-306" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Boy Idle0004" x="1097" y="0" width="276" height="365" frameX="-337" frameY="-305" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Boy Idle0005" x="1097" y="0" width="276" height="365" frameX="-337" frameY="-305" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Boy Idle0006" x="1097" y="365" width="276" height="365" frameX="-339" frameY="-305" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Boy Idle0007" x="1097" y="365" width="276" height="365" frameX="-339" frameY="-305" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Boy Idle0008" x="821" y="367" width="276" height="367" frameX="-341" frameY="-303" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Boy Idle0009" x="821" y="367" width="276" height="367" frameX="-341" frameY="-303" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Boy Left0000" x="0" y="383" width="276" height="369" frameX="-329" frameY="-301" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Boy Left0001" x="0" y="383" width="276" height="369" frameX="-329" frameY="-301" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Boy Left0002" x="821" y="0" width="276" height="367" frameX="-341" frameY="-303" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Boy Left0003" x="821" y="0" width="276" height="367" frameX="-341" frameY="-303" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Boy Right0000" x="269" y="0" width="276" height="369" frameX="-358" frameY="-301" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Boy Right0001" x="269" y="0" width="276" height="369" frameX="-358" frameY="-301" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Boy Right0002" x="545" y="0" width="276" height="369" frameX="-348" frameY="-301" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Boy Right0003" x="545" y="0" width="276" height="369" frameX="-348" frameY="-301" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Boy Down0000" x="554" y="752" width="280" height="348" frameX="-331" frameY="-322" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Boy Down0001" x="554" y="752" width="280" height="348" frameX="-331" frameY="-322" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Boy Down0002" x="275" y="752" width="279" height="358" frameX="-333" frameY="-312" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Boy Down0003" x="275" y="752" width="279" height="358" frameX="-333" frameY="-312" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Boy Up0000" x="0" y="0" width="269" height="383" frameX="-358" frameY="-287" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Boy Up0001" x="0" y="0" width="269" height="383" frameX="-358" frameY="-287" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Boy Up0002" x="276" y="383" width="276" height="368" frameX="-343" frameY="-302" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Boy Up0003" x="276" y="383" width="276" height="368" frameX="-343" frameY="-302" frameWidth="950" frameHeight="950"/>
+</TextureAtlas>

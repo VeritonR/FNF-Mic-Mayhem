@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ytalorenji17Conto.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="ytalo down0000" x="1013" y="1571" width="339" height="780" frameX="-546" frameY="-324" frameWidth="1378" frameHeight="1378"/>
+	<SubTexture name="ytalo down0001" x="2451" y="0" width="338" height="782" frameX="-544" frameY="-322" frameWidth="1378" frameHeight="1378"/>
+	<SubTexture name="ytalo idle0000" x="676" y="1571" width="337" height="800" frameX="-534" frameY="-304" frameWidth="1378" frameHeight="1378"/>
+	<SubTexture name="ytalo idle0001" x="338" y="1571" width="338" height="801" frameX="-532" frameY="-303" frameWidth="1378" frameHeight="1378"/>
+	<SubTexture name="ytalo idle0002" x="0" y="1571" width="338" height="804" frameX="-524" frameY="-300" frameWidth="1378" frameHeight="1378"/>
+	<SubTexture name="ytalo idle0003" x="1775" y="0" width="339" height="807" frameX="-522" frameY="-297" frameWidth="1378" frameHeight="1378"/>
+	<SubTexture name="ytalo idle0004" x="2114" y="0" width="337" height="807" frameX="-522" frameY="-297" frameWidth="1378" frameHeight="1378"/>
+	<SubTexture name="ytalo left0000" x="0" y="0" width="390" height="785" frameX="-461" frameY="-316" frameWidth="1378" frameHeight="1378"/>
+	<SubTexture name="ytalo left0001" x="0" y="785" width="384" height="786" frameX="-467" frameY="-315" frameWidth="1378" frameHeight="1378"/>
+	<SubTexture name="ytalo right0000" x="1084" y="0" width="348" height="803" frameX="-572" frameY="-302" frameWidth="1378" frameHeight="1378"/>
+	<SubTexture name="ytalo right0001" x="1432" y="0" width="343" height="803" frameX="-571" frameY="-302" frameWidth="1378" frameHeight="1378"/>
+	<SubTexture name="ytalo up0000" x="390" y="0" width="349" height="823" frameX="-526" frameY="-283" frameWidth="1378" frameHeight="1378"/>
+	<SubTexture name="ytalo up0001" x="739" y="0" width="345" height="821" frameX="-528" frameY="-285" frameWidth="1378" frameHeight="1378"/>
+</TextureAtlas>

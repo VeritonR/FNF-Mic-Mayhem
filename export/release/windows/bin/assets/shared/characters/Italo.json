@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Italo Idle"
+		},
+		{
+			"offsets": [-11, 0],
+			"indices": [],
+			"fps": 12,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Italo Right"
+		},
+		{
+			"offsets": [0, -1],
+			"indices": [],
+			"fps": 12,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Italo Left"
+		},
+		{
+			"offsets": [0, 1],
+			"indices": [],
+			"fps": 12,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Italo Up"
+		},
+		{
+			"offsets": [0, 2],
+			"indices": [],
+			"fps": 12,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Italo Down"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Italo_Assets",
+	"position": [-260, -40],
+	"healthicon": "italo",
+	"flip_x": false,
+	"healthbar_colors": [14, 126, 26],
+	"camera_position": [-30, 30],
+	"sing_duration": 4,
+	"scale": 0.9,
+	"_editor_isPlayer": false
+}

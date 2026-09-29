@@ -1,0 +1,9 @@
+{
+	"idle_anim": "Idle",
+	"image": "Menu_Rayzen",
+	"position": [360, 311],
+	"flipX": false,
+	"antialiasing": true,
+	"scale": 0.55,
+	"confirm_anim": "Idle"
+}

@@ -1,0 +1,4 @@
+set hud zoom i guess
+
+Value 1: size (exemple: 0.8)
+Value 1: w speed <3 (exemple: 0.5)

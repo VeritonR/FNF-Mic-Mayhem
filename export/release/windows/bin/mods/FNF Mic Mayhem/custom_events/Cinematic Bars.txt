@@ -1,0 +1,20 @@
+Creates cinematic black bars on top and bottom of the screen.
+
+Value 1:
+true/false,size,time
+
+true = animate bars
+false = instant change
+
+size = bar size (0.0 to 0.5)
+time = duration in beats
+
+Example:
+true,0.25,4
+
+Value 2:
+ease,extra,camera
+
+Examples:
+quadInOut,,camHUD
+linear,,camHUD

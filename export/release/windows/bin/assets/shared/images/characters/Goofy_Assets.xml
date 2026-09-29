@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Goofy_Assets.png">
+	<!-- Created with Adobe Animate version 24.0.10.14 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="goofy down0000" x="0" y="0" width="202" height="317" frameX="0" frameY="-4" frameWidth="202" frameHeight="321"/>
+	<SubTexture name="goofy down0001" x="202" y="0" width="202" height="321"/>
+	<SubTexture name="goofy down0002" x="202" y="0" width="202" height="321"/>
+	<SubTexture name="goofy down0003" x="202" y="0" width="202" height="321"/>
+	<SubTexture name="goofy down0004" x="202" y="0" width="202" height="321"/>
+	<SubTexture name="goofy down0005" x="202" y="0" width="202" height="321"/>
+	<SubTexture name="goofy down0006" x="202" y="0" width="202" height="321"/>
+	<SubTexture name="goofy down0007" x="202" y="0" width="202" height="321"/>
+	<SubTexture name="goofy down0008" x="202" y="0" width="202" height="321"/>
+	<SubTexture name="goofy down0009" x="202" y="0" width="202" height="321"/>
+	<SubTexture name="goofy down0010" x="202" y="0" width="202" height="321"/>
+	<SubTexture name="goofy down0011" x="202" y="0" width="202" height="321"/>
+	<SubTexture name="goofy down0012" x="202" y="0" width="202" height="321"/>
+	<SubTexture name="goofy down0013" x="202" y="0" width="202" height="321"/>
+	<SubTexture name="goofy down0014" x="202" y="0" width="202" height="321"/>
+	<SubTexture name="goofy down0015" x="202" y="0" width="202" height="321"/>
+	<SubTexture name="goofy down0016" x="202" y="0" width="202" height="321"/>
+	<SubTexture name="goofy down0017" x="202" y="0" width="202" height="321"/>
+	<SubTexture name="goofy down0018" x="202" y="0" width="202" height="321"/>
+	<SubTexture name="goofy down0019" x="202" y="0" width="202" height="321"/>
+	<SubTexture name="goofy idle0000" x="404" y="0" width="202" height="325"/>
+	<SubTexture name="goofy idle0001" x="606" y="0" width="202" height="325"/>
+	<SubTexture name="goofy idle0002" x="404" y="0" width="202" height="325"/>
+	<SubTexture name="goofy idle0003" x="606" y="0" width="202" height="325"/>
+	<SubTexture name="goofy idle0004" x="404" y="0" width="202" height="325"/>
+	<SubTexture name="goofy idle0005" x="606" y="0" width="202" height="325"/>
+	<SubTexture name="goofy idle0006" x="404" y="0" width="202" height="325"/>
+	<SubTexture name="goofy idle0007" x="606" y="0" width="202" height="325"/>
+	<SubTexture name="goofy idle0008" x="404" y="0" width="202" height="325"/>
+	<SubTexture name="goofy idle0009" x="606" y="0" width="202" height="325"/>
+	<SubTexture name="goofy idle0010" x="404" y="0" width="202" height="325"/>
+	<SubTexture name="goofy idle0011" x="606" y="0" width="202" height="325"/>
+	<SubTexture name="goofy idle0012" x="404" y="0" width="202" height="325"/>
+	<SubTexture name="goofy idle0013" x="606" y="0" width="202" height="325"/>
+	<SubTexture name="goofy idle0014" x="404" y="0" width="202" height="325"/>
+	<SubTexture name="goofy idle0015" x="606" y="0" width="202" height="325"/>
+	<SubTexture name="goofy idle0016" x="404" y="0" width="202" height="325"/>
+	<SubTexture name="goofy idle0017" x="606" y="0" width="202" height="325"/>
+	<SubTexture name="goofy idle0018" x="404" y="0" width="202" height="325"/>
+	<SubTexture name="goofy idle0019" x="606" y="0" width="202" height="325"/>
+	<SubTexture name="goofy left0000" x="808" y="0" width="201" height="324" frameX="0" frameY="-1" frameWidth="206" frameHeight="325"/>
+	<SubTexture name="goofy left0001" x="0" y="325" width="201" height="325" frameX="-5" frameY="0" frameWidth="206" frameHeight="325"/>
+	<SubTexture name="goofy left0002" x="0" y="325" width="201" height="325" frameX="-5" frameY="0" frameWidth="206" frameHeight="325"/>
+	<SubTexture name="goofy left0003" x="0" y="325" width="201" height="325" frameX="-5" frameY="0" frameWidth="206" frameHeight="325"/>
+	<SubTexture name="goofy left0004" x="0" y="325" width="201" height="325" frameX="-5" frameY="0" frameWidth="206" frameHeight="325"/>
+	<SubTexture name="goofy left0005" x="0" y="325" width="201" height="325" frameX="-5" frameY="0" frameWidth="206" frameHeight="325"/>
+	<SubTexture name="goofy left0006" x="0" y="325" width="201" height="325" frameX="-5" frameY="0" frameWidth="206" frameHeight="325"/>
+	<SubTexture name="goofy left0007" x="0" y="325" width="201" height="325" frameX="-5" frameY="0" frameWidth="206" frameHeight="325"/>
+	<SubTexture name="goofy left0008" x="0" y="325" width="201" height="325" frameX="-5" frameY="0" frameWidth="206" frameHeight="325"/>
+	<SubTexture name="goofy left0009" x="0" y="325" width="201" height="325" frameX="-5" frameY="0" frameWidth="206" frameHeight="325"/>
+	<SubTexture name="goofy left0010" x="0" y="325" width="201" height="325" frameX="-5" frameY="0" frameWidth="206" frameHeight="325"/>
+	<SubTexture name="goofy left0011" x="0" y="325" width="201" height="325" frameX="-5" frameY="0" frameWidth="206" frameHeight="325"/>
+	<SubTexture name="goofy left0012" x="0" y="325" width="201" height="325" frameX="-5" frameY="0" frameWidth="206" frameHeight="325"/>
+	<SubTexture name="goofy left0013" x="0" y="325" width="201" height="325" frameX="-5" frameY="0" frameWidth="206" frameHeight="325"/>
+	<SubTexture name="goofy left0014" x="0" y="325" width="201" height="325" frameX="-5" frameY="0" frameWidth="206" frameHeight="325"/>
+	<SubTexture name="goofy left0015" x="0" y="325" width="201" height="325" frameX="-5" frameY="0" frameWidth="206" frameHeight="325"/>
+	<SubTexture name="goofy left0016" x="0" y="325" width="201" height="325" frameX="-5" frameY="0" frameWidth="206" frameHeight="325"/>
+	<SubTexture name="goofy left0017" x="0" y="325" width="201" height="325" frameX="-5" frameY="0" frameWidth="206" frameHeight="325"/>
+	<SubTexture name="goofy left0018" x="0" y="325" width="201" height="325" frameX="-5" frameY="0" frameWidth="206" frameHeight="325"/>
+	<SubTexture name="goofy left0019" x="0" y="325" width="201" height="325" frameX="-5" frameY="0" frameWidth="206" frameHeight="325"/>
+	<SubTexture name="goofy right0000" x="201" y="325" width="203" height="325" frameX="-2" frameY="0" frameWidth="205" frameHeight="325"/>
+	<SubTexture name="goofy right0001" x="404" y="325" width="203" height="325" frameX="0" frameY="0" frameWidth="205" frameHeight="325"/>
+	<SubTexture name="goofy right0002" x="404" y="325" width="203" height="325" frameX="0" frameY="0" frameWidth="205" frameHeight="325"/>
+	<SubTexture name="goofy right0003" x="404" y="325" width="203" height="325" frameX="0" frameY="0" frameWidth="205" frameHeight="325"/>
+	<SubTexture name="goofy right0004" x="404" y="325" width="203" height="325" frameX="0" frameY="0" frameWidth="205" frameHeight="325"/>
+	<SubTexture name="goofy right0005" x="404" y="325" width="203" height="325" frameX="0" frameY="0" frameWidth="205" frameHeight="325"/>
+	<SubTexture name="goofy right0006" x="404" y="325" width="203" height="325" frameX="0" frameY="0" frameWidth="205" frameHeight="325"/>
+	<SubTexture name="goofy right0007" x="404" y="325" width="203" height="325" frameX="0" frameY="0" frameWidth="205" frameHeight="325"/>
+	<SubTexture name="goofy right0008" x="404" y="325" width="203" height="325" frameX="0" frameY="0" frameWidth="205" frameHeight="325"/>
+	<SubTexture name="goofy right0009" x="404" y="325" width="203" height="325" frameX="0" frameY="0" frameWidth="205" frameHeight="325"/>
+	<SubTexture name="goofy right0010" x="404" y="325" width="203" height="325" frameX="0" frameY="0" frameWidth="205" frameHeight="325"/>
+	<SubTexture name="goofy right0011" x="404" y="325" width="203" height="325" frameX="0" frameY="0" frameWidth="205" frameHeight="325"/>
+	<SubTexture name="goofy right0012" x="404" y="325" width="203" height="325" frameX="0" frameY="0" frameWidth="205" frameHeight="325"/>
+	<SubTexture name="goofy right0013" x="404" y="325" width="203" height="325" frameX="0" frameY="0" frameWidth="205" frameHeight="325"/>
+	<SubTexture name="goofy right0014" x="404" y="325" width="203" height="325" frameX="0" frameY="0" frameWidth="205" frameHeight="325"/>
+	<SubTexture name="goofy right0015" x="404" y="325" width="203" height="325" frameX="0" frameY="0" frameWidth="205" frameHeight="325"/>
+	<SubTexture name="goofy right0016" x="404" y="325" width="203" height="325" frameX="0" frameY="0" frameWidth="205" frameHeight="325"/>
+	<SubTexture name="goofy right0017" x="404" y="325" width="203" height="325" frameX="0" frameY="0" frameWidth="205" frameHeight="325"/>
+	<SubTexture name="goofy right0018" x="404" y="325" width="203" height="325" frameX="0" frameY="0" frameWidth="205" frameHeight="325"/>
+	<SubTexture name="goofy right0019" x="404" y="325" width="203" height="325" frameX="0" frameY="0" frameWidth="205" frameHeight="325"/>
+	<SubTexture name="goofy up0000" x="607" y="325" width="201" height="328" frameX="-3" frameY="0" frameWidth="204" frameHeight="328"/>
+	<SubTexture name="goofy up0001" x="808" y="325" width="202" height="328" frameX="0" frameY="0" frameWidth="204" frameHeight="328"/>
+	<SubTexture name="goofy up0002" x="808" y="325" width="202" height="328" frameX="0" frameY="0" frameWidth="204" frameHeight="328"/>
+	<SubTexture name="goofy up0003" x="808" y="325" width="202" height="328" frameX="0" frameY="0" frameWidth="204" frameHeight="328"/>
+	<SubTexture name="goofy up0004" x="808" y="325" width="202" height="328" frameX="0" frameY="0" frameWidth="204" frameHeight="328"/>
+	<SubTexture name="goofy up0005" x="808" y="325" width="202" height="328" frameX="0" frameY="0" frameWidth="204" frameHeight="328"/>
+	<SubTexture name="goofy up0006" x="808" y="325" width="202" height="328" frameX="0" frameY="0" frameWidth="204" frameHeight="328"/>
+	<SubTexture name="goofy up0007" x="808" y="325" width="202" height="328" frameX="0" frameY="0" frameWidth="204" frameHeight="328"/>
+	<SubTexture name="goofy up0008" x="808" y="325" width="202" height="328" frameX="0" frameY="0" frameWidth="204" frameHeight="328"/>
+	<SubTexture name="goofy up0009" x="808" y="325" width="202" height="328" frameX="0" frameY="0" frameWidth="204" frameHeight="328"/>
+	<SubTexture name="goofy up0010" x="808" y="325" width="202" height="328" frameX="0" frameY="0" frameWidth="204" frameHeight="328"/>
+	<SubTexture name="goofy up0011" x="808" y="325" width="202" height="328" frameX="0" frameY="0" frameWidth="204" frameHeight="328"/>
+	<SubTexture name="goofy up0012" x="808" y="325" width="202" height="328" frameX="0" frameY="0" frameWidth="204" frameHeight="328"/>
+	<SubTexture name="goofy up0013" x="808" y="325" width="202" height="328" frameX="0" frameY="0" frameWidth="204" frameHeight="328"/>
+	<SubTexture name="goofy up0014" x="808" y="325" width="202" height="328" frameX="0" frameY="0" frameWidth="204" frameHeight="328"/>
+	<SubTexture name="goofy up0015" x="808" y="325" width="202" height="328" frameX="0" frameY="0" frameWidth="204" frameHeight="328"/>
+	<SubTexture name="goofy up0016" x="808" y="325" width="202" height="328" frameX="0" frameY="0" frameWidth="204" frameHeight="328"/>
+	<SubTexture name="goofy up0017" x="808" y="325" width="202" height="328" frameX="0" frameY="0" frameWidth="204" frameHeight="328"/>
+	<SubTexture name="goofy up0018" x="808" y="325" width="202" height="328" frameX="0" frameY="0" frameWidth="204" frameHeight="328"/>
+</TextureAtlas>

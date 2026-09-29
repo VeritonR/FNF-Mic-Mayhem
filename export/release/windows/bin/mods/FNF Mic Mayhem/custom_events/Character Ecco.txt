@@ -1,0 +1,11 @@
+Value 1: Character
+dad / boyfriend / gf
+
+Value 2: Enable
+true = ativa o efeito
+false = não faz nada
+
+EXAMPLE:
+
+Value 1: dad
+Value 2: true

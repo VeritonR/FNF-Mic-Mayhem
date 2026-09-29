@@ -1,0 +1,36 @@
+{
+	"songs": [
+		[
+			"Zap",
+			"OldRay",
+			[
+				80,
+				80,
+				255
+			]
+		],
+		[
+			"Ray Spark",
+			"OldRay",
+			[
+				80,
+				80,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Normal",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

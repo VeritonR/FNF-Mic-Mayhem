@@ -1,0 +1,89 @@
+{
+	"position": [
+		-130,
+		30
+	],
+	"dialogue_pos": "left",
+	"scale": 1.2,
+	"image": "Rayzen_Dialogue",
+	"animations": [
+		{
+			"loop_offsets": [
+				-1,
+				218
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				-1,
+				218
+			],
+			"loop_name": "Confuse Talk",
+			"idle_name": "Confuse Idle"
+		},
+		{
+			"loop_offsets": [
+				-1,
+				218
+			],
+			"anim": "Talk",
+			"idle_offsets": [
+				-1,
+				218
+			],
+			"loop_name": "Talk",
+			"idle_name": "Idle"
+		},
+		{
+			"loop_name": "Idle",
+			"idle_offsets": [
+				-1,
+				218
+			],
+			"idle_name": "Idle",
+			"anim": "Idle",
+			"loop_offsets": [
+				-1,
+				218
+			]
+		},
+		{
+			"loop_name": "Confuse Idle",
+			"idle_offsets": [
+				-1,
+				218
+			],
+			"idle_name": "Confuse Idle",
+			"anim": "confused idle",
+			"loop_offsets": [
+				-1,
+				218
+			]
+		},
+		{
+			"loop_name": "XD Talk",
+			"idle_offsets": [
+				-1,
+				218
+			],
+			"idle_name": "XD Idle",
+			"anim": "XD",
+			"loop_offsets": [
+				-1,
+				218
+			]
+		},
+		{
+			"loop_name": "XD Idle",
+			"idle_offsets": [
+				-1,
+				218
+			],
+			"idle_name": "XD Idle",
+			"anim": "XD Idle",
+			"loop_offsets": [
+				-1,
+				218
+			]
+		}
+	]
+}

@@ -1,0 +1,163 @@
+{
+	"camera_boyfriend": [
+		0,
+		0
+	],
+	"preload": {
+		"images/stageback": 3,
+		"images/stagefront": 3,
+		"images/stagecurtains": 2,
+		"images/stage_light": 2
+	},
+	"_editorMeta": {
+		"boyfriend": "GoofyBoy",
+		"dad": "Goofy",
+		"gf": "gf_JUICY"
+	},
+	"boyfriend": [
+		1667,
+		635
+	],
+	"stageUI": "",
+	"girlfriend": [
+		826,
+		665
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"defaultZoom": 0.6,
+	"objects": [
+		{
+			"x": -337,
+			"y": 83,
+			"scale": [
+				1.5,
+				1.25
+			],
+			"image": "GoofyAhhWorld/Sky_goofy",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "Sky",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 173,
+			"y": 345,
+			"scale": [
+				1.15,
+				1
+			],
+			"image": "GoofyAhhWorld/Sun_Clouds",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 306,
+			"y": 151,
+			"scale": [
+				1,
+				1
+			],
+			"image": "GoofyAhhWorld/TinyHouses",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "tinyHouses",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -12,
+			"y": 23,
+			"scale": [
+				1.1,
+				1.1
+			],
+			"image": "GoofyAhhWorld/House",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite2",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -486,
+			"y": -482,
+			"scale": [
+				1.6,
+				1.6
+			],
+			"image": "GoofyAhhWorld/Grass",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "grass",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"opponent": [
+		667,
+		676
+	],
+	"directory": "week1",
+	"camera_speed": 1,
+	"hide_girlfriend": true,
+	"camera_opponent": [
+		0,
+		0
+	]
+}

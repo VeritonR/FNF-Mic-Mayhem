@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Week5_Enzy.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Enzy Idle0000" x="1388" y="1403" width="345" height="694" frameX="-303" frameY="-156" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Idle0001" x="1388" y="1403" width="345" height="694" frameX="-303" frameY="-156" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Idle0002" x="348" y="2108" width="351" height="672" frameX="-307" frameY="-178" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Idle0003" x="348" y="2108" width="351" height="672" frameX="-307" frameY="-178" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Idle0004" x="1825" y="712" width="347" height="682" frameX="-309" frameY="-168" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Idle0005" x="1825" y="712" width="347" height="682" frameX="-309" frameY="-168" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Idle0006" x="2855" y="0" width="342" height="688" frameX="-308" frameY="-162" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Idle0007" x="2855" y="0" width="342" height="688" frameX="-308" frameY="-162" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Idle0008" x="1388" y="1403" width="345" height="694" frameX="-303" frameY="-156" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Idle0009" x="1388" y="1403" width="345" height="694" frameX="-303" frameY="-156" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Left0000" x="348" y="1403" width="346" height="701" frameX="-320" frameY="-149" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Left0001" x="348" y="1403" width="346" height="701" frameX="-320" frameY="-149" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Left0002" x="2174" y="0" width="340" height="699" frameX="-318" frameY="-151" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Left0003" x="2174" y="0" width="340" height="699" frameX="-318" frameY="-151" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Left0004" x="2514" y="0" width="341" height="693" frameX="-312" frameY="-157" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Left0005" x="2514" y="0" width="341" height="693" frameX="-312" frameY="-157" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Left0006" x="1065" y="709" width="347" height="694" frameX="-303" frameY="-156" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Left0007" x="1065" y="709" width="347" height="694" frameX="-303" frameY="-156" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Left0008" x="1065" y="709" width="347" height="694" frameX="-303" frameY="-156" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Left0009" x="1065" y="709" width="347" height="694" frameX="-303" frameY="-156" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Right0000" x="0" y="0" width="375" height="709" frameX="-266" frameY="-141" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Right0001" x="0" y="0" width="375" height="709" frameX="-266" frameY="-141" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Right0002" x="745" y="0" width="361" height="705" frameX="-282" frameY="-145" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Right0003" x="745" y="0" width="361" height="705" frameX="-282" frameY="-145" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Right0004" x="1470" y="0" width="355" height="702" frameX="-290" frameY="-148" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Right0005" x="1470" y="0" width="355" height="702" frameX="-290" frameY="-148" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Right0006" x="694" y="1403" width="347" height="694" frameX="-303" frameY="-156" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Right0007" x="694" y="1403" width="347" height="694" frameX="-303" frameY="-156" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Right0008" x="694" y="1403" width="347" height="694" frameX="-303" frameY="-156" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Right0009" x="694" y="1403" width="347" height="694" frameX="-303" frameY="-156" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Down0000" x="1733" y="1403" width="355" height="672" frameX="-305" frameY="-178" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Down0001" x="1733" y="1403" width="355" height="672" frameX="-305" frameY="-178" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Down0002" x="0" y="2108" width="348" height="678" frameX="-307" frameY="-172" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Down0003" x="0" y="2108" width="348" height="678" frameX="-307" frameY="-172" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Down0004" x="2855" y="688" width="342" height="686" frameX="-309" frameY="-164" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Down0005" x="2855" y="688" width="342" height="686" frameX="-309" frameY="-164" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Down0006" x="718" y="709" width="347" height="694" frameX="-303" frameY="-156" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Down0007" x="718" y="709" width="347" height="694" frameX="-303" frameY="-156" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Down0008" x="718" y="709" width="347" height="694" frameX="-303" frameY="-156" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Down0009" x="718" y="709" width="347" height="694" frameX="-303" frameY="-156" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Up0000" x="1825" y="0" width="349" height="712" frameX="-285" frameY="-138" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Up0001" x="1825" y="0" width="349" height="712" frameX="-285" frameY="-138" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Up0002" x="0" y="1403" width="348" height="705" frameX="-292" frameY="-145" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Up0003" x="0" y="1403" width="348" height="705" frameX="-292" frameY="-145" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Up0004" x="1470" y="702" width="354" height="698" frameX="-291" frameY="-152" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Up0005" x="1470" y="702" width="354" height="698" frameX="-291" frameY="-152" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Up0006" x="1041" y="1403" width="347" height="694" frameX="-303" frameY="-156" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Up0007" x="1041" y="1403" width="347" height="694" frameX="-303" frameY="-156" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Up0008" x="1041" y="1403" width="347" height="694" frameX="-303" frameY="-156" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Up0009" x="1041" y="1403" width="347" height="694" frameX="-303" frameY="-156" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Hey0000" x="375" y="0" width="370" height="694" frameX="-287" frameY="-156" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Hey0001" x="375" y="0" width="370" height="694" frameX="-287" frameY="-156" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Hey0002" x="1106" y="0" width="364" height="694" frameX="-289" frameY="-156" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Hey0003" x="1106" y="0" width="364" height="694" frameX="-289" frameY="-156" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Hey0004" x="0" y="709" width="360" height="694" frameX="-289" frameY="-156" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Hey0005" x="0" y="709" width="360" height="694" frameX="-289" frameY="-156" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Hey0006" x="360" y="709" width="358" height="694" frameX="-289" frameY="-156" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Hey0007" x="360" y="709" width="358" height="694" frameX="-289" frameY="-156" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Hey0008" x="360" y="709" width="358" height="694" frameX="-289" frameY="-156" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Hey0009" x="360" y="709" width="358" height="694" frameX="-289" frameY="-156" frameWidth="950" frameHeight="950"/>
+</TextureAtlas>

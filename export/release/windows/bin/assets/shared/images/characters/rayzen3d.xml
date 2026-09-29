@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rayzen3d.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="idle0000" x="336" y="1574" width="322" height="554" frameX="-154" frameY="-39" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="idle0001" x="0" y="1574" width="336" height="556" frameX="-139" frameY="-82" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="idle0002" x="2214" y="0" width="321" height="570" frameX="-146" frameY="-32" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="left0000" x="635" y="0" width="627" height="534" frameX="-8" frameY="-33" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="left0001" x="1262" y="0" width="534" height="526" frameX="-23" frameY="-24" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="down0000" x="0" y="554" width="635" height="486" frameX="-6" frameY="-11" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="down0001" x="507" y="1040" width="638" height="424" frameX="-3" frameY="-131" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="up0000" x="1796" y="0" width="418" height="605" frameX="-207" frameY="-7" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="up0001" x="1796" y="605" width="345" height="581" frameX="-207" frameY="-34" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="right0000" x="0" y="0" width="635" height="554" frameX="-1" frameY="-66" frameWidth="640" frameHeight="640"/>
+	<SubTexture name="right0001" x="0" y="1040" width="507" height="534" frameX="-31" frameY="-81" frameWidth="640" frameHeight="640"/>
+</TextureAtlas>

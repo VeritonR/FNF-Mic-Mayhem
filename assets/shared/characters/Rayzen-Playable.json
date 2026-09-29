@@ -1,0 +1,87 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [234, 112],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Rayzen Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [234, 112],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Rayzen Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [234, 112],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Rayzen Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [234, 112],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Rayzen Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [234, 112],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Rayzen Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [234, 112],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Rayzen Alt Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [234, 112],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Rayzen Alt Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [234, 112],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Rayzen Alt Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [234, 112],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Rayzen Alt Right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Rayzen_Assets",
+	"position": [30, 90],
+	"healthicon": "Rayzen",
+	"flip_x": false,
+	"healthbar_colors": [150, 12, 44],
+	"camera_position": [260, -120],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

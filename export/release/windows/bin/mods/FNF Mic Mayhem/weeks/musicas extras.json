@@ -1,0 +1,54 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"tridimensional",
+			"Ytalo3d",
+			[
+				0,
+				253,
+				0
+			]
+		],
+		[
+			"damn Ari Pico Mix",
+			"Rayzen",
+			[
+				255,
+				0,
+				53
+			]
+		],
+		[
+			"17 Otarios",
+			"face",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Error",
+			"GuhDd",
+			[
+				126,
+				0,
+				126
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}

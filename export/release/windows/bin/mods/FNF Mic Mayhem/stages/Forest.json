@@ -1,0 +1,185 @@
+{
+	"camera_boyfriend": [
+		0,
+		0
+	],
+	"preload": {
+		"images/stageback": 3,
+		"images/stagefront": 3,
+		"images/stagecurtains": 2,
+		"images/stage_light": 2
+	},
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"dad": "Rayzen",
+		"gf": "gf"
+	},
+	"boyfriend": [
+		970,
+		116
+	],
+	"stageUI": "",
+	"girlfriend": [
+		400,
+		130
+	],
+	"defaultZoom": 0.7,
+	"objects": [
+		{
+			"x": -1650,
+			"y": -1149,
+			"scale": [
+				1.45,
+				1.45
+			],
+			"image": "Forest/sky",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite5",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.05,
+				0.05
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": 59,
+			"y": -199,
+			"scale": [
+				1,
+				1
+			],
+			"image": "Forest/clouds",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite6",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.15,
+				0.15
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -931,
+			"y": 6,
+			"scale": [
+				1,
+				1
+			],
+			"image": "Forest/mountain",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite4",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.4,
+				0.4
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -812,
+			"y": 224,
+			"scale": [
+				1,
+				1
+			],
+			"image": "Forest/trees_back",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite3",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				0.7,
+				0.7
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -1314,
+			"y": 649,
+			"scale": [
+				1.4,
+				1.4
+			],
+			"image": "Forest/ground",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"x": -664,
+			"y": 644,
+			"scale": [
+				1,
+				1
+			],
+			"image": "Forest/bush",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite2",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1.4,
+				1.4
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"opponent": [
+		100,
+		100
+	],
+	"directory": "week1",
+	"camera_speed": 1,
+	"hide_girlfriend": false,
+	"camera_opponent": [
+		0,
+		0
+	]
+}

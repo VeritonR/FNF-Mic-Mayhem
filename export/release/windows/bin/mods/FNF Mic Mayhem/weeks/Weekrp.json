@@ -1,0 +1,45 @@
+{
+	"storyName": "A random Guy",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "weeke",
+	"weekBefore": "weekr",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"Rayzen",
+		"Pico-player",
+		""
+	],
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Redline Rampage Pico Mix",
+			"rayzen",
+			[
+				150,
+				12,
+				44
+			]
+		],
+		[
+			"Mid Mic Pico Mix",
+			"rayzen",
+			[
+				150,
+				12,
+				44
+			]
+		],
+		[
+			"Damn Ari Pico Mix",
+			"rayzen",
+			[
+				150,
+				12,
+				44
+			]
+		]
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "Week Rayzen Pico Mix"
+}

@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Rayzen Estava Voltando Para Casa Depois De Um Dia Cansativo",
+			"boxState": "normal",
+			"portrait": "narrador",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "pissed",
+			"text": "Ate que...",
+			"boxState": "normal",
+			"portrait": "narrador",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "confused",
+			"text": "Pqp mlk, eu so quero chegar em casa e me jogar na cama.",
+			"boxState": "normal",
+			"portrait": "Rayzen",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "excited",
+			"text": "mais na frente, ele vê um mlk de cabelo azul parado no meio da rua",
+			"boxState": "normal",
+			"portrait": "narrador",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "Talk",
+			"text": "Hm",
+			"boxState": "normal",
+			"portrait": "Rayzen",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "boa noite.",
+			"boxState": "normal",
+			"portrait": "Rayzen",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Beep! ",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "Talk",
+			"text": "que",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Rayzen"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bop?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "Rayzen",
+			"boxState": "normal",
+			"expression": "Talk",
+			"text": " que porra que tu ta falando?\nKKK"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep caralho"
+		},
+		{
+			"sound": "",
+			"speed": 0.1,
+			"portrait": "Rayzen",
+			"boxState": "normal",
+			"expression": "Talk",
+			"text": "ata"
+		}
+	]
+}

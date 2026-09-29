@@ -1,0 +1,2 @@
+value 1 : icon, exemplo "icon-67"
+value 2 : rgb do icon

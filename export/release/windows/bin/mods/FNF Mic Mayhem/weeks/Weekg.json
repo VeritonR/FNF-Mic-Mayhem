@@ -1,0 +1,54 @@
+{
+	"storyName": "Vs Your young brother",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "House",
+	"weekBefore": "weekr",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Balde Runer",
+			"guh",
+			[
+				60,
+				195,
+				255
+			]
+		],
+		[
+			"blueish",
+			"guh",
+			[
+				60,
+				195,
+				255
+			]
+		],
+		[
+			"Burnin Cyan",
+			"guh",
+			[
+				60,
+				195,
+				255
+			]
+		],
+		[
+			"Dissonance",
+			"guhdd",
+			[
+				0,
+				193,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"Guh",
+		"",
+		"bf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Guh´s Week"
+}

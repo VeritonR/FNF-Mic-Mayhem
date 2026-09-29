@@ -1,0 +1,3 @@
+Sets a black random ass image opacity.
+
+Value 1: opacity (exemple: 0.5)

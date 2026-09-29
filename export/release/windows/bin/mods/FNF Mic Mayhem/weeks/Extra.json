@@ -1,0 +1,54 @@
+{
+	"storyName": "Dimensão Paralela",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "Extra",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Lights And Action",
+			"Ytalo",
+			[
+				0,
+				255,
+				0
+			]
+		],
+		[
+			"Dual personality",
+			"Yago",
+			[
+				255,
+				235,
+				95
+			]
+		],
+		[
+			"Scoliosis",
+			"goofy",
+			[
+				215,
+				255,
+				255
+			]
+		],
+		[
+			"Cyan Light",
+			"Sg",
+			[
+				26,
+				173,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week Extra"
+}

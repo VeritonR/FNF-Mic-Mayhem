@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"offsets": [234, 112],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Enzy Idle"
+		},
+		{
+			"offsets": [234, 112],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Enzy Up"
+		},
+		{
+			"offsets": [234, 112],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Enzy Down"
+		},
+		{
+			"offsets": [234, 112],
+			"loop": false,
+			"fps": 24,
+			"anim": "Hey",
+			"indices": [],
+			"name": "Enzy Hey"
+		},
+		{
+			"offsets": [234, 112],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Enzy Right"
+		},
+		{
+			"offsets": [234, 112],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Enzy Left"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Week5_Rayzen",
+	"position": [-60, 30],
+	"healthicon": "Rayzen-christmas",
+	"flip_x": false,
+	"healthbar_colors": [4, 120, 252],
+	"camera_position": [190, -10],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

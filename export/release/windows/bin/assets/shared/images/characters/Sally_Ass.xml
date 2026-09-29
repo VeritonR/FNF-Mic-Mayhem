@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sally_Ass.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Sally Idle0000" x="0" y="0" width="592" height="638" frameX="-296" frameY="-204" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Sally Idle0001" x="0" y="0" width="592" height="638" frameX="-296" frameY="-204" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Sally Idle0002" x="0" y="638" width="583" height="641" frameX="-301" frameY="-201" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Sally Idle0003" x="0" y="638" width="583" height="641" frameX="-301" frameY="-201" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Sally Idle0004" x="592" y="0" width="578" height="644" frameX="-303" frameY="-198" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Sally Idle0005" x="592" y="0" width="578" height="644" frameX="-303" frameY="-198" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Sally Idle0006" x="1170" y="0" width="569" height="648" frameX="-308" frameY="-194" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Sally Idle0007" x="1170" y="0" width="569" height="648" frameX="-308" frameY="-194" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Sally Idle0008" x="1170" y="0" width="569" height="648" frameX="-308" frameY="-194" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Sally Idle0009" x="1170" y="0" width="569" height="648" frameX="-308" frameY="-194" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Sally Idle0010" x="1170" y="0" width="569" height="648" frameX="-308" frameY="-194" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Sally Idle0011" x="1170" y="0" width="569" height="648" frameX="-308" frameY="-194" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Sally Idle0012" x="1170" y="0" width="569" height="648" frameX="-308" frameY="-194" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Sally Idle0013" x="1170" y="0" width="569" height="648" frameX="-308" frameY="-194" frameWidth="950" frameHeight="950"/>
+</TextureAtlas>

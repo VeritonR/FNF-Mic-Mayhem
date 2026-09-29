@@ -1,0 +1,19 @@
+Value 1: State
+true = fade pra preto
+false = volta ao normal
+
+Value 2: Layer
+front = fica na frente de tudo
+back = fica atrás
+
+EXAMPLE:
+
+Value 1: true
+Value 2: front
+
+(ativa fade pra preto)
+
+Value 1: false
+Value 2: front
+
+(volta ao normal)

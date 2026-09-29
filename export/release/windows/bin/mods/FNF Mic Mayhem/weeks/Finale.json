@@ -1,0 +1,27 @@
+{
+	"storyName": "the finale",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "Weekf",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Final Showdown",
+			"Enzy",
+			[
+				0,
+				60,
+				120
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": false,
+	"hiddenUntilUnlocked": false,
+	"weekName": "Final Showdown"
+}

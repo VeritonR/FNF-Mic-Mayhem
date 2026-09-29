@@ -1,0 +1,95 @@
+{
+	"animations": [
+		{
+			"offsets": [234, 112],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Enzy Hey"
+		},
+		{
+			"loop": false,
+			"offsets": [234, 111],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Ending Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [234, 112],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Ending Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [234, 112],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Ending Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [234, 112],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Ending Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [234, 112],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Ending Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [234, 112],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "Ending Alt Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [234, 112],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "Ending Alt Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [234, 112],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "Ending Alt Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [234, 112],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "Ending Alt Up",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Ending64_Assets",
+	"position": [-60, 30],
+	"healthicon": "Ending64",
+	"flip_x": false,
+	"healthbar_colors": [255, 0, 0],
+	"camera_position": [-310, -120],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

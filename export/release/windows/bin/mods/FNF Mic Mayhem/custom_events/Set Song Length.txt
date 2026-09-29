@@ -1,0 +1,4 @@
+Set Song Length
+Changes the length of the current song. Accepts time in milliseconds or in MM:SS format.
+Value1: New song length (ms or MM:SS)
+Value2: (Unused)

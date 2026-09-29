@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ending64_Assets.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Ending Idle0000" x="3026" y="1326" width="335" height="661" frameX="-317" frameY="-190" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Idle0001" x="3026" y="1326" width="335" height="661" frameX="-317" frameY="-190" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Idle0002" x="711" y="1325" width="353" height="644" frameX="-308" frameY="-207" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Idle0003" x="711" y="1325" width="353" height="644" frameX="-308" frameY="-207" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Idle0004" x="0" y="1989" width="345" height="651" frameX="-312" frameY="-200" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Idle0005" x="0" y="1989" width="345" height="651" frameX="-312" frameY="-200" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Idle0006" x="1005" y="2640" width="337" height="656" frameX="-316" frameY="-195" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Idle0007" x="1005" y="2640" width="337" height="656" frameX="-316" frameY="-195" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Idle0008" x="3026" y="1326" width="335" height="661" frameX="-317" frameY="-190" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Idle0009" x="3026" y="1326" width="335" height="661" frameX="-317" frameY="-190" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Right0000" x="0" y="1325" width="352" height="664" frameX="-320" frameY="-187" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Right0001" x="0" y="1325" width="352" height="664" frameX="-320" frameY="-187" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Right0002" x="1996" y="1318" width="345" height="658" frameX="-320" frameY="-193" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Right0003" x="1996" y="1318" width="345" height="658" frameX="-320" frameY="-193" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Right0004" x="2347" y="660" width="342" height="660" frameX="-319" frameY="-191" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Right0005" x="2347" y="660" width="342" height="660" frameX="-319" frameY="-191" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Right0006" x="2347" y="1320" width="339" height="661" frameX="-318" frameY="-190" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Right0007" x="2347" y="1320" width="339" height="661" frameX="-318" frameY="-190" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Right0008" x="2347" y="1320" width="339" height="661" frameX="-318" frameY="-190" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Right0009" x="2347" y="1320" width="339" height="661" frameX="-318" frameY="-190" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Left0000" x="1996" y="651" width="341" height="667" frameX="-307" frameY="-184" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Left0001" x="1996" y="651" width="341" height="667" frameX="-307" frameY="-184" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Left0002" x="2690" y="666" width="335" height="664" frameX="-314" frameY="-187" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Left0003" x="2690" y="666" width="335" height="664" frameX="-314" frameY="-187" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Left0004" x="3026" y="663" width="335" height="663" frameX="-315" frameY="-188" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Left0005" x="3026" y="663" width="335" height="663" frameX="-315" frameY="-188" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Left0006" x="335" y="2640" width="335" height="660" frameX="-316" frameY="-191" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Left0007" x="335" y="2640" width="335" height="660" frameX="-316" frameY="-191" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Left0008" x="670" y="2640" width="335" height="660" frameX="-316" frameY="-191" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Left0009" x="670" y="2640" width="335" height="660" frameX="-316" frameY="-191" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Down0000" x="867" y="627" width="371" height="643" frameX="-299" frameY="-208" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Down0001" x="867" y="627" width="371" height="643" frameX="-299" frameY="-208" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Down0002" x="352" y="1325" width="359" height="647" frameX="-305" frameY="-204" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Down0003" x="352" y="1325" width="359" height="647" frameX="-305" frameY="-204" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Down0004" x="1996" y="0" width="351" height="651" frameX="-309" frameY="-200" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Down0005" x="1996" y="0" width="351" height="651" frameX="-309" frameY="-200" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Down0006" x="2347" y="0" width="343" height="660" frameX="-313" frameY="-191" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Down0007" x="2347" y="0" width="343" height="660" frameX="-313" frameY="-191" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Down0008" x="2347" y="0" width="343" height="660" frameX="-313" frameY="-191" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Down0009" x="2347" y="0" width="343" height="660" frameX="-313" frameY="-191" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Up0000" x="3688" y="1350" width="295" height="684" frameX="-337" frameY="-167" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Up0001" x="3688" y="1350" width="295" height="684" frameX="-337" frameY="-167" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Up0002" x="3688" y="0" width="307" height="677" frameX="-331" frameY="-174" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Up0003" x="3688" y="0" width="307" height="677" frameX="-331" frameY="-174" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Up0004" x="3361" y="1322" width="321" height="669" frameX="-324" frameY="-182" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Up0005" x="3361" y="1322" width="321" height="669" frameX="-324" frameY="-182" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Up0006" x="3361" y="0" width="327" height="661" frameX="-321" frameY="-190" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Up0007" x="3361" y="0" width="327" height="661" frameX="-321" frameY="-190" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Up0008" x="3361" y="0" width="327" height="661" frameX="-321" frameY="-190" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Up0009" x="3361" y="0" width="327" height="661" frameX="-321" frameY="-190" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Right0000" x="0" y="661" width="425" height="664" frameX="-249" frameY="-187" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Right0001" x="0" y="661" width="425" height="664" frameX="-249" frameY="-187" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Right0002" x="425" y="661" width="425" height="658" frameX="-243" frameY="-193" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Right0003" x="425" y="661" width="425" height="658" frameX="-243" frameY="-193" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Right0004" x="435" y="0" width="432" height="660" frameX="-231" frameY="-191" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Right0005" x="435" y="0" width="432" height="660" frameX="-231" frameY="-191" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Right0006" x="0" y="0" width="435" height="661" frameX="-222" frameY="-190" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Right0007" x="0" y="0" width="435" height="661" frameX="-222" frameY="-190" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Right0008" x="0" y="0" width="435" height="661" frameX="-222" frameY="-190" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Right0009" x="0" y="0" width="435" height="661" frameX="-222" frameY="-190" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Left0000" x="2690" y="0" width="336" height="666" frameX="-313" frameY="-185" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Left0001" x="2690" y="0" width="336" height="666" frameX="-313" frameY="-185" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Left0002" x="3026" y="0" width="335" height="663" frameX="-315" frameY="-188" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Left0003" x="3026" y="0" width="335" height="663" frameX="-315" frameY="-188" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Left0004" x="2690" y="1330" width="335" height="664" frameX="-316" frameY="-187" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Left0005" x="2690" y="1330" width="335" height="664" frameX="-316" frameY="-187" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Left0006" x="0" y="2640" width="335" height="660" frameX="-317" frameY="-191" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Left0007" x="0" y="2640" width="335" height="660" frameX="-317" frameY="-191" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Left0008" x="0" y="2640" width="335" height="660" frameX="-317" frameY="-191" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Left0009" x="0" y="2640" width="335" height="660" frameX="-317" frameY="-191" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Down0000" x="867" y="0" width="387" height="627" frameX="-291" frameY="-224" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Down0001" x="867" y="0" width="387" height="627" frameX="-291" frameY="-224" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Down0002" x="1623" y="0" width="373" height="633" frameX="-296" frameY="-218" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Down0003" x="1623" y="0" width="373" height="633" frameX="-296" frameY="-218" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Down0004" x="1254" y="0" width="369" height="642" frameX="-296" frameY="-209" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Down0005" x="1254" y="0" width="369" height="642" frameX="-296" frameY="-209" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Down0006" x="1254" y="642" width="362" height="648" frameX="-296" frameY="-203" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Down0007" x="1254" y="642" width="362" height="648" frameX="-296" frameY="-203" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Down0008" x="1623" y="633" width="362" height="648" frameX="-296" frameY="-203" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Down0009" x="1623" y="633" width="362" height="648" frameX="-296" frameY="-203" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Up0000" x="3688" y="677" width="304" height="673" frameX="-332" frameY="-178" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Up0001" x="3688" y="677" width="304" height="673" frameX="-332" frameY="-178" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Up0002" x="0" y="3300" width="311" height="666" frameX="-329" frameY="-185" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Up0003" x="0" y="3300" width="311" height="666" frameX="-329" frameY="-185" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Up0004" x="3361" y="1991" width="319" height="664" frameX="-325" frameY="-187" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Up0005" x="3361" y="1991" width="319" height="664" frameX="-325" frameY="-187" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Up0006" x="3361" y="661" width="327" height="661" frameX="-321" frameY="-190" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Up0007" x="3361" y="661" width="327" height="661" frameX="-321" frameY="-190" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Up0008" x="3361" y="661" width="327" height="661" frameX="-321" frameY="-190" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Ending Alt Up0009" x="3361" y="661" width="327" height="661" frameX="-321" frameY="-190" frameWidth="950" frameHeight="950"/>
+</TextureAtlas>

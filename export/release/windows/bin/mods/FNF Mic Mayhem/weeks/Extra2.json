@@ -1,0 +1,45 @@
+{
+	"storyName": "BRO, WHERE'D ALL THESE PEOPLE COME FROM?!",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "extra2",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Happy64Song",
+			"Ending64",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Overdrive",
+			"Sally",
+			[
+				0,
+				120,
+				255
+			]
+		],
+		[
+			"Duck",
+			"Italo",
+			[
+				0,
+				195,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Extra 2"
+}

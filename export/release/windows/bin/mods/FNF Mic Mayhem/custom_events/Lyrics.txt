@@ -1,0 +1,14 @@
+Very easy lyrics event.
+
+Value 1:
+Text to show
+
+Value 2:
+1 = Show text with small upward bump
+2 = Hide text with fast fade
+
+Examples:
+
+Hello World! | 1
+Run!! | 1
+(anything) | 2

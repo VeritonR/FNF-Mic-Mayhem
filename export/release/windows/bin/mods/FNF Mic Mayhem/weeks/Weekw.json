@@ -1,0 +1,45 @@
+{
+	"songs": [
+		[
+			"Conffesus",
+			"w",
+			[
+				126,
+				13,
+				255
+			]
+		],
+		[
+			"Golden purple",
+			"w",
+			[
+				126,
+				13,
+				255
+			]
+		],
+		[
+			"Eminverted",
+			"w",
+			[
+				126,
+				13,
+				255
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "weekg",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"w",
+		"",
+		"bf"
+	],
+	"storyName": "Dabiliou",
+	"weekName": "Week W",
+	"hideStoryMode": false,
+	"weekBefore": "weekg",
+	"startUnlocked": True
+}

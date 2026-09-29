@@ -1,0 +1,108 @@
+{
+	"camera_boyfriend": [
+		0,
+		0
+	],
+	"preload": {
+		"images/stageback": 3,
+		"images/stagefront": 3,
+		"images/stagecurtains": 2,
+		"images/stage_light": 2
+	},
+	"_editorMeta": {
+		"boyfriend": "bf",
+		"dad": "RFEnzy",
+		"gf": "gf"
+	},
+	"boyfriend": [
+		1024,
+		101
+	],
+	"stageUI": "",
+	"girlfriend": [
+		454,
+		142
+	],
+	"defaultZoom": 0.65,
+	"objects": [
+		{
+			"x": -1248,
+			"y": -809,
+			"scale": [
+				1.55,
+				1.75
+			],
+			"image": "EnzyWorld/EnzyWorld",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"x": -410,
+			"y": -116,
+			"scale": [
+				1,
+				1
+			],
+			"image": "EnzyWorld/Guhrf",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite2",
+			"firstAnimation": "Idle",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"animations": [
+				{
+					"loop": true,
+					"offsets": null,
+					"anim": "Idle",
+					"fps": 24,
+					"name": "Idle",
+					"indices": []
+				}
+			],
+			"type": "animatedSprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"opponent": [
+		148,
+		91
+	],
+	"directory": "week1",
+	"camera_speed": 1,
+	"hide_girlfriend": false,
+	"camera_opponent": [
+		0,
+		0
+	]
+}

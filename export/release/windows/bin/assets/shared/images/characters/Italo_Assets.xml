@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Italo_Assets.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Italo Idle0000" x="771" y="1401" width="362" height="729" frameX="-259" frameY="-142" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Italo Idle0001" x="771" y="1401" width="362" height="729" frameX="-259" frameY="-142" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Italo Idle0002" x="1836" y="1401" width="350" height="707" frameX="-286" frameY="-164" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Italo Idle0003" x="1836" y="1401" width="350" height="707" frameX="-286" frameY="-164" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Italo Idle0004" x="1488" y="1401" width="348" height="713" frameX="-280" frameY="-158" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Italo Idle0005" x="1488" y="1401" width="348" height="713" frameX="-280" frameY="-158" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Italo Idle0006" x="1133" y="1401" width="355" height="723" frameX="-268" frameY="-148" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Italo Idle0007" x="1133" y="1401" width="355" height="723" frameX="-268" frameY="-148" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Italo Idle0008" x="771" y="1401" width="362" height="729" frameX="-259" frameY="-142" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Italo Idle0009" x="771" y="1401" width="362" height="729" frameX="-259" frameY="-142" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Italo Right0000" x="530" y="0" width="452" height="730" frameX="-313" frameY="-143" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Italo Right0001" x="387" y="1401" width="384" height="729" frameX="-296" frameY="-144" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Italo Left0000" x="1402" y="0" width="427" height="735" frameX="-219" frameY="-137" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Italo Left0001" x="1829" y="0" width="415" height="732" frameX="-244" frameY="-139" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Italo Up0000" x="982" y="0" width="420" height="770" frameX="-278" frameY="-102" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Italo Up0001" x="0" y="1401" width="387" height="741" frameX="-269" frameY="-131" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Italo Down0000" x="0" y="0" width="530" height="695" frameX="-205" frameY="-177" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Italo Down0001" x="0" y="695" width="518" height="706" frameX="-187" frameY="-166" frameWidth="950" frameHeight="950"/>
+</TextureAtlas>

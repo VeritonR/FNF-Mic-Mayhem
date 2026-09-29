@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="17Rayzen.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Enzy Idle0000" x="1611" y="663" width="303" height="678" frameX="-263" frameY="-203" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Idle0001" x="1611" y="663" width="303" height="678" frameX="-263" frameY="-203" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Idle0002" x="322" y="0" width="330" height="662" frameX="-251" frameY="-219" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Idle0003" x="322" y="0" width="330" height="662" frameX="-251" frameY="-219" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Idle0004" x="319" y="679" width="323" height="667" frameX="-252" frameY="-214" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Idle0005" x="319" y="679" width="323" height="667" frameX="-252" frameY="-214" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Idle0006" x="985" y="0" width="317" height="670" frameX="-256" frameY="-211" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Idle0007" x="985" y="0" width="317" height="670" frameX="-256" frameY="-211" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Idle0008" x="1611" y="663" width="303" height="678" frameX="-263" frameY="-203" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Idle0009" x="1611" y="663" width="303" height="678" frameX="-263" frameY="-203" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Right0000" x="985" y="670" width="311" height="676" frameX="-265" frameY="-205" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Right0001" x="985" y="670" width="311" height="676" frameX="-265" frameY="-205" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Right0002" x="1302" y="0" width="309" height="676" frameX="-264" frameY="-205" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Right0003" x="1302" y="0" width="309" height="676" frameX="-264" frameY="-205" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Left0000" x="0" y="679" width="319" height="682" frameX="-244" frameY="-199" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Left0001" x="0" y="679" width="319" height="682" frameX="-244" frameY="-199" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Left0002" x="0" y="0" width="322" height="679" frameX="-259" frameY="-202" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Left0003" x="0" y="0" width="322" height="679" frameX="-259" frameY="-202" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Down0000" x="652" y="0" width="333" height="654" frameX="-245" frameY="-227" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Down0001" x="652" y="0" width="333" height="654" frameX="-245" frameY="-227" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Down0002" x="642" y="679" width="314" height="663" frameX="-256" frameY="-218" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Down0003" x="1611" y="0" width="314" height="663" frameX="-256" frameY="-218" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Up0000" x="1925" y="0" width="287" height="699" frameX="-275" frameY="-182" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Up0001" x="1925" y="0" width="287" height="699" frameX="-275" frameY="-182" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Up0002" x="1302" y="676" width="296" height="680" frameX="-269" frameY="-201" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Enzy Up0003" x="1302" y="676" width="296" height="680" frameX="-269" frameY="-201" frameWidth="950" frameHeight="950"/>
+</TextureAtlas>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SGamer_Assets.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="SG Idle0000" x="0" y="1348" width="351" height="672" frameX="-319" frameY="-178" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="SG Idle0001" x="0" y="1348" width="351" height="672" frameX="-319" frameY="-178" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="SG Idle0002" x="1116" y="0" width="371" height="654" frameX="-306" frameY="-196" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="SG Idle0003" x="1116" y="0" width="371" height="654" frameX="-306" frameY="-196" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="SG Idle0004" x="0" y="686" width="365" height="662" frameX="-311" frameY="-188" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="SG Idle0005" x="0" y="686" width="365" height="662" frameX="-311" frameY="-188" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="SG Idle0006" x="1831" y="0" width="358" height="670" frameX="-316" frameY="-180" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="SG Idle0007" x="1831" y="0" width="358" height="670" frameX="-316" frameY="-180" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="SG Idle0008" x="0" y="1348" width="351" height="672" frameX="-319" frameY="-178" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="SG Idle0009" x="0" y="1348" width="351" height="672" frameX="-319" frameY="-178" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="SG Right0000" x="365" y="686" width="356" height="662" frameX="-321" frameY="-188" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="SG Right0001" x="365" y="686" width="356" height="662" frameX="-321" frameY="-188" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="SG Right0002" x="1831" y="670" width="351" height="673" frameX="-320" frameY="-177" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="SG Right0003" x="1831" y="670" width="351" height="673" frameX="-320" frameY="-177" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="SG Left0000" x="1487" y="0" width="344" height="702" frameX="-303" frameY="-148" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="SG Left0001" x="1487" y="0" width="344" height="702" frameX="-303" frameY="-148" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="SG Left0002" x="2189" y="0" width="338" height="675" frameX="-316" frameY="-175" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="SG Left0003" x="2189" y="0" width="338" height="675" frameX="-316" frameY="-175" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="SG Down0000" x="374" y="0" width="371" height="679" frameX="-300" frameY="-171" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="SG Down0001" x="745" y="0" width="371" height="679" frameX="-300" frameY="-171" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="SG Down0002" x="351" y="1348" width="351" height="669" frameX="-311" frameY="-181" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="SG Down0003" x="351" y="1348" width="351" height="669" frameX="-311" frameY="-181" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="SG Up0000" x="0" y="0" width="374" height="686" frameX="-285" frameY="-164" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="SG Up0001" x="0" y="0" width="374" height="686" frameX="-285" frameY="-164" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="SG Up0002" x="702" y="1348" width="351" height="666" frameX="-315" frameY="-184" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="SG Up0003" x="702" y="1348" width="351" height="666" frameX="-315" frameY="-184" frameWidth="950" frameHeight="950"/>
+</TextureAtlas>

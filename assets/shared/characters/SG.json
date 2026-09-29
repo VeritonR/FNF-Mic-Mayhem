@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [234, 113],
+			"indices": [],
+			"fps": 20,
+			"anim": "idle",
+			"loop": false,
+			"name": "SG Idle"
+		},
+		{
+			"offsets": [234, 113],
+			"indices": [],
+			"fps": 20,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "SG Right"
+		},
+		{
+			"offsets": [234, 113],
+			"indices": [],
+			"fps": 20,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "SG Left"
+		},
+		{
+			"offsets": [234, 113],
+			"indices": [],
+			"fps": 20,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "SG Down"
+		},
+		{
+			"offsets": [234, 113],
+			"indices": [],
+			"fps": 20,
+			"anim": "singUP",
+			"loop": false,
+			"name": "SG Up"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/SGamer_Assets",
+	"position": [-10, 90],
+	"healthicon": "SG",
+	"flip_x": false,
+	"healthbar_colors": [100, 251, 251],
+	"camera_position": [-370, -110],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

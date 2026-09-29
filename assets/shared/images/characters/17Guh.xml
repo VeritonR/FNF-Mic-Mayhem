@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="17Guh.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Guh Idle0000" x="1140" y="2007" width="285" height="682" frameX="-266" frameY="-196" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Idle0001" x="1140" y="2007" width="285" height="682" frameX="-266" frameY="-196" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Idle0002" x="0" y="663" width="305" height="667" frameX="-256" frameY="-211" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Idle0003" x="0" y="663" width="305" height="667" frameX="-256" frameY="-211" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Idle0004" x="611" y="0" width="299" height="673" frameX="-259" frameY="-205" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Idle0005" x="611" y="0" width="299" height="673" frameX="-259" frameY="-205" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Idle0006" x="293" y="1330" width="293" height="676" frameX="-262" frameY="-202" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Idle0007" x="293" y="1330" width="293" height="676" frameX="-262" frameY="-202" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Idle0008" x="1140" y="2007" width="285" height="682" frameX="-266" frameY="-196" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Idle0009" x="1140" y="2007" width="285" height="682" frameX="-266" frameY="-196" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Right0000" x="313" y="0" width="298" height="677" frameX="-269" frameY="-201" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Right0001" x="313" y="0" width="298" height="677" frameX="-269" frameY="-201" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Right0002" x="2635" y="0" width="287" height="680" frameX="-268" frameY="-198" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Right0003" x="2635" y="0" width="287" height="680" frameX="-268" frameY="-198" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Right0004" x="2350" y="685" width="285" height="683" frameX="-267" frameY="-195" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Right0005" x="2350" y="685" width="285" height="683" frameX="-267" frameY="-195" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Right0006" x="285" y="2007" width="285" height="682" frameX="-266" frameY="-196" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Right0007" x="285" y="2007" width="285" height="682" frameX="-266" frameY="-196" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Right0008" x="285" y="2007" width="285" height="682" frameX="-266" frameY="-196" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Right0009" x="285" y="2007" width="285" height="682" frameX="-266" frameY="-196" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Left0000" x="1494" y="0" width="290" height="686" frameX="-258" frameY="-192" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Left0001" x="1494" y="0" width="290" height="686" frameX="-258" frameY="-192" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Left0002" x="2350" y="0" width="285" height="685" frameX="-264" frameY="-193" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Left0003" x="2350" y="0" width="285" height="685" frameX="-264" frameY="-193" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Left0004" x="2635" y="680" width="285" height="684" frameX="-265" frameY="-194" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Left0005" x="2635" y="680" width="285" height="684" frameX="-265" frameY="-194" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Left0006" x="0" y="2007" width="285" height="682" frameX="-266" frameY="-196" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Left0007" x="0" y="2007" width="285" height="682" frameX="-266" frameY="-196" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Left0008" x="0" y="2007" width="285" height="682" frameX="-266" frameY="-196" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Left0009" x="0" y="2007" width="285" height="682" frameX="-266" frameY="-196" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Down0000" x="0" y="0" width="313" height="663" frameX="-252" frameY="-215" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Down0001" x="0" y="0" width="313" height="663" frameX="-252" frameY="-215" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Down0002" x="910" y="0" width="299" height="673" frameX="-259" frameY="-205" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Down0003" x="910" y="0" width="299" height="673" frameX="-259" frameY="-205" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Down0004" x="0" y="1330" width="293" height="677" frameX="-262" frameY="-201" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Down0005" x="0" y="1330" width="293" height="677" frameX="-262" frameY="-201" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Down0006" x="855" y="2007" width="285" height="682" frameX="-266" frameY="-196" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Down0007" x="855" y="2007" width="285" height="682" frameX="-266" frameY="-196" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Down0008" x="855" y="2007" width="285" height="682" frameX="-266" frameY="-196" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Down0009" x="855" y="2007" width="285" height="682" frameX="-266" frameY="-196" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Up0000" x="1784" y="0" width="282" height="705" frameX="-276" frameY="-173" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Up0001" x="1784" y="0" width="282" height="705" frameX="-276" frameY="-173" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Up0002" x="1209" y="0" width="285" height="701" frameX="-272" frameY="-177" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Up0003" x="1209" y="0" width="285" height="701" frameX="-272" frameY="-177" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Up0004" x="2066" y="0" width="284" height="695" frameX="-267" frameY="-183" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Up0005" x="2066" y="0" width="284" height="695" frameX="-267" frameY="-183" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Up0006" x="570" y="2007" width="285" height="682" frameX="-266" frameY="-196" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Up0007" x="570" y="2007" width="285" height="682" frameX="-266" frameY="-196" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Up0008" x="570" y="2007" width="285" height="682" frameX="-266" frameY="-196" frameWidth="950" frameHeight="950"/>
+	<SubTexture name="Guh Up0009" x="570" y="2007" width="285" height="682" frameX="-266" frameY="-196" frameWidth="950" frameHeight="950"/>
+</TextureAtlas>

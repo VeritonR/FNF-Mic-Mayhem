@@ -1,0 +1,7 @@
+BlackOut Event
+
+Value1:
+1 = Ativa tela preta
+
+Value2:
+2 = Remove tela preta

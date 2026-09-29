@@ -1,0 +1,75 @@
+{
+	"camera_boyfriend": [
+		0,
+		0
+	],
+	"preload": {
+		"images/stageback": 3,
+		"images/stagefront": 3,
+		"images/stagecurtains": 2,
+		"images/stage_light": 2
+	},
+	"_editorMeta": {
+		"boyfriend": "boyf",
+		"dad": "17Enzy",
+		"gf": "17Guh"
+	},
+	"boyfriend": [
+		1089,
+		16
+	],
+	"stageUI": "",
+	"girlfriend": [
+		348,
+		19
+	],
+	"defaultZoom": 0.65,
+	"objects": [
+		{
+			"x": -1103,
+			"y": -565,
+			"scale": [
+				1.55,
+				1.75
+			],
+			"image": "EnzyWorld/EnzyWorld",
+			"flipX": false,
+			"filters": 3,
+			"color": "FFFFFF",
+			"angle": 0,
+			"name": "sprite1",
+			"antialiasing": true,
+			"flipY": false,
+			"scroll": [
+				1,
+				1
+			],
+			"alpha": 1,
+			"type": "sprite"
+		},
+		{
+			"type": "gf"
+		},
+		{
+			"type": "dad"
+		},
+		{
+			"type": "boyfriend"
+		}
+	],
+	"camera_girlfriend": [
+		0,
+		0
+	],
+	"opponent": [
+		148,
+		91
+	],
+	"directory": "week1",
+	"camera_speed": 1,
+	"hide_girlfriend": false,
+	"camera_opponent": [
+		0,
+		0
+	]
+}
