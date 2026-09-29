@@ -1,0 +1,2 @@
+freeplay diferenciado, mostras as weeks de lado, ao invez de ir descendo e q nn tenha os sprites dos manos e dos stages amarelos
+e no lugar dele seja imagens de "previews" das weeks, q fiquem na pasta "menu backgrounds"
